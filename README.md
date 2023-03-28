@@ -15,7 +15,14 @@ Siga las instrucciones del instalador para instalar XAMPP en su computadora.
 Una vez que la instalación haya finalizado, abra XAMPP y asegúrese de encender los programas <b>Apache y MySQL</b>.
 
 ## 2. Descargar los archivos del repositorio
-Descargue todos los archivos de este repositorio en su computadora local.
+Para poder ver este currículo localmente, es necesario descargar los archivos del repositorio en su computadora local. Estos archivos incluyen:
+Un archivo <b>.rar</b> que contiene WordPress comprimido en formato RAR.
+Un archivo <b>.sql</b> que es la base de datos necesaria para que este currículo funcione correctamente.
+
+Siga los siguientes pasos para descargar los archivos del repositorio:
+Acceda al repositorio donde se encuentra alojado este currículo.
+Descargue el archivo <b>.rar</b> y el archivo <b>.sql</b> del repositorio a su computadora local.
+Descomprima el archivo <b>.rar</b> para acceder a la instalación de WordPress.
 
 ## 3. Importar la base de datos
 La base de datos es necesaria para que este currículo funcione correctamente. Para importar la base de datos, siga los siguientes pasos:
