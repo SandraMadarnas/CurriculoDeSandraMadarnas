@@ -31,3 +31,5 @@ Una vez que haya completado los pasos anteriores, puede acceder al currículo en
 
 En su navegador web, ingrese la siguiente dirección en la barra de direcciones: http://localhost/sandra-madarnas/
 ¡Listo! Ahora podrá ver este currículo en su computadora local.
+
+<hr>
